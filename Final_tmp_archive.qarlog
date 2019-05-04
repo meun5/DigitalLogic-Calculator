@@ -1,0 +1,31 @@
+Quartus Prime Archive log --	U:/CprE281/FinalProject/Final_tmp_archive.qarlog
+
+Archive:	U:/CprE281/FinalProject/Final_tmp_archive.qar
+Date:		Fri May 03 10:25:36 2019
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Standard Edition
+
+	=========== Files Selected: ===========
+U:/CprE281/FinalProject/5BIT_Register.bdf
+U:/CprE281/FinalProject/ALU.v
+U:/CprE281/FinalProject/FSM.v
+U:/CprE281/FinalProject/Final.bdf
+U:/CprE281/FinalProject/Final.qpf
+U:/CprE281/FinalProject/Final.qsf
+U:/CprE281/FinalProject/REGISTER_File.bdf
+U:/CprE281/FinalProject/bcd_converter.v
+U:/CprE281/FinalProject/clock_divider_1024.bdf
+U:/CprE281/FinalProject/decoder_2_to_4.v
+U:/CprE281/FinalProject/mux2to1_5bit.v
+U:/CprE281/FinalProject/mux4to1_5bit.v
+U:/CprE281/FinalProject/seven_seg_decodera.v
+c:/altera/intelfpga/18.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 14 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri May 03 10:25:38 2019
+Source archive file:	U:/CprE281/FinalProject/Final_tmp_archive.qar
+Archive was extracted into	U:/CprE281/FinalProject/FSM_COMPLETE/
+		 - successfully.

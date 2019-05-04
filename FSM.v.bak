@@ -1,0 +1,2 @@
+module FSM(OP, IN_DATA, OUT_DATA, WA, RA);
+	input [2:0] OP;

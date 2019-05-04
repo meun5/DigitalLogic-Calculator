@@ -1,0 +1,2 @@
+module ALU(OP, K, RESULT);
+	input [0:3] OP;

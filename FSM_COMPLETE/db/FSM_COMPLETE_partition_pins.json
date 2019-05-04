@@ -1,0 +1,261 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "DONE",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_SET",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_READ",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PR0_2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PR1_2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PR2_2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PR3_2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "OP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "OP[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PERFORM",
+					"strict" : false
+				},
+				{
+					"name" : "RESET",
+					"strict" : false
+				},
+				{
+					"name" : "OP[2]",
+					"strict" : false
+				},
+				{
+					"name" : "K[0]",
+					"strict" : false
+				},
+				{
+					"name" : "K[1]",
+					"strict" : false
+				},
+				{
+					"name" : "CLOCK",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

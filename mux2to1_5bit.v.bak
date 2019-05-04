@@ -1,0 +1,18 @@
+module mux4to1_5bit(W0, W1, W2, W3, F, S);
+	input [4:0] W0;
+	input [4:0] W1;
+	input [4:0] W2; 
+	input [4:0] W3;
+	input [0:1] S;
+	
+	output [4:0] F;
+	
+	reg [4:0] F;
+	
+	always @(S) begin
+		case ({S})
+			1'b0: F = W0;
+			1'b1: F = W1;
+		endcase
+	end
+endmodule
